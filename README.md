@@ -6,7 +6,7 @@
 I'm currently learning full stack development, focusing on Node.js, and I'm also interested in Competitive Programming (CP) and Data Structures & Algorithms (DSA).  
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/avadhut.mali) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/avadhutmali)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/avadhut_m1629/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avadhut-mali-836886284/)  
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -32,6 +32,6 @@ I'm currently learning full stack development, focusing on Node.js, and I'm also
 
 [![](https://visitcount.itsvg.in/api?id=avadhutmali&icon=4&color=12)](https://visitcount.itsvg.in)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/avadhut_mali?ext=heatmap)
+![Leetcode Stats](https://leetcode.com/u/Avadhut__M1629/)
 
 </div>
