@@ -1,11 +1,18 @@
 <div align="center">
 
-# 💫 About Me:
-I'm currently learning full stack development, focusing on Spring Boot, and I'm also interested in Competitive Programming (CP) and Data Structures & Algorithms (DSA).  
+# 👋 Hey there, I'm Avadhut
 
+🎓 Passionate about **Full Stack Development** (Spring Boot)  
+⚔️ Practicing **Competitive Programming** & mastering **DSA**  
+🏆 Solving problems on **LeetCode** & **Codeforces** regularly  
+
+<br>
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Avadhut__M1629?theme=dark&ext=heatmap)](https://leetcode.com/Avadhut__M1629)  
+[![Codeforces](https://cf.leed.at?id=avadhutmali)](https://codeforces.com/profile/mali.avadhut7)
+
+<br>
 
 [![](https://visitcount.itsvg.in/api?id=avadhutmali&icon=4&color=12)](https://visitcount.itsvg.in)
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/Avadhut__M1629?ext=heatmap)
 
 </div>
