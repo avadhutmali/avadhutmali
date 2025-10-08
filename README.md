@@ -13,7 +13,8 @@
 [![Codeforces Stats Card](https://codeforces-readme-stats.vercel.app/api/card?username=mali.avadhut7)](https://codeforces.com/profile/mali.avadhut7)
 
 ## Holopin Stats
-[![An image of @avadhutmali's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avadhutmali)](https://holopin.io/@avadhutmali)
+[![An image of @avadhutmali 's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avadhutmali)](https://holopin.io/@avadhutmali)
+
 
 
 <br><br>
